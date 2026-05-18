@@ -1,7 +1,0 @@
-pandas
-scikit-learn
-scikit-surprise
-streamlit
-SVD
-Dataset
-Reader
